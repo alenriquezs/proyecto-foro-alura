@@ -1,12 +1,12 @@
 ## Descripción del Proyecto
 
-<!-- <p align="center">
-  <img width="300" height="300" src="badge literalura.png">
-</p> -->
+<p align="center">
+  <img width="300" height="300" src="Badge-Spring.png">
+</p>
 
 Es la resolución del **Challenge - Foro Hub** utilizando **JAVA**, **SpringBoot** y **MySQL**. Reto de la formación **Oracle Next Education (ONE)** de **Oracle + Alura LATAM**.
 
-**`OBJETIVO: `** En Alura, los estudiantes utilizan el foro para resolver sus dudas sobre los cursos y proyectos en los que están participando. Este lugar mágico está lleno de mucho aprendizaje y colaboración entre estudiantes, profesores y moderadores.
+**`OBJETIVO:`** En Alura, los estudiantes utilizan el foro para resolver sus dudas sobre los cursos y proyectos en los que están participando. Este lugar mágico está lleno de mucho aprendizaje y colaboración entre estudiantes, profesores y moderadores.
 
 La API va a centrarse específicamente en los tópicos, y debe permitir a los usuarios:
 - Crear un nuevo tópico
